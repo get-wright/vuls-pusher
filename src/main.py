@@ -59,3 +59,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+{
+  "azure_client_secret": "dGhpcyBpcyBhIHRlc3QgY2xpZW50IHNlY3JldCBmb3IgQXp1cmU="
+}
+# Secret in here my nigga 
+
+{
+    "beamer_api_token": "b_qgcef589prlas8cz_o9rk-bhmywcdfjmiqbqy28vg6hb"
+}

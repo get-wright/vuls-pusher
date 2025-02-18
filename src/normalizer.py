@@ -68,3 +68,7 @@ class VulsDataNormalizer:
 #   "aws_access_key_id": "AKIAFAKEEXAMPLE1234",
 #   "aws_secret_access_key": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEYEXAMPLE"
 # }
+
+bitbucketClientSecret = "1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+
+# BitbucketClientSecret = "17xjjdjqal9oje=ouibn-9yqn995cxbw1opd8zeefklb8pfi2ki3g3ojqrp1gc_v"

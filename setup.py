@@ -10,3 +10,8 @@ setup(
         'pyyaml',
     ],
 )
+
+
+#   hosts:
+#     - "https://test-api-bb4c28.es.ap-southeast-1.aws.elastic.cloud:443"
+#   api_key: "UnVraEdKU5SjtFQIDlrN6tS2kcnqlSvJ2ekd1UXF2ND.5c3FQ5npYZ=="
