@@ -1,0 +1,13 @@
+input:
+  vuls_results_path: "/path/to/vuls/results"
+  scan_interval: 3600  # seconds
+
+elasticsearch:
+  hosts:
+    - "http://localhost:9200"
+  api_key: "YOUR_API_KEY"
+  bulk_size: 1000
+
+logging:
+  level: "INFO"
+  file: "/var/log/vuls-ingest.log"
