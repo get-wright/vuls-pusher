@@ -1,11 +1,11 @@
 input:
-  vuls_results_path: "/path/to/vuls/results"
-  scan_interval: 3600  # seconds
+  vuls_results_path: "/home/kali/Desktop/Vuls/config/results"
+  scan_interval: 360  # seconds
 
 elasticsearch:
   hosts:
-    - "http://localhost:9200"
-  api_key: "YOUR_API_KEY"
+    - "https://test-api-bb4c28.es.ap-southeast-1.aws.elastic.cloud:443"
+  api_key: "UnVraEdKU5SjtFQIDlrN6tS2kcnqlSvJ2ekd1UXF2ND.5c3FQ5npYZ=="
   bulk_size: 1000
 
 logging:

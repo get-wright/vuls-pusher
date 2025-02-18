@@ -63,3 +63,8 @@ class VulsDataNormalizer:
                 }
                 normalized_data.append(normalized_entry)
         return normalized_data
+    
+# {
+#   "aws_access_key_id": "AKIAFAKEEXAMPLE1234",
+#   "aws_secret_access_key": "wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEYEXAMPLE"
+# }
